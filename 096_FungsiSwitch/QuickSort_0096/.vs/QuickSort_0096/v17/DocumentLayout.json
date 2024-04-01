@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PEMROGRAMAN DASAR\\096_FungsiSwitch\\QuickSort_0096\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B902668-56C2-4315-ADB2-A264A127986E}|QuickSort_0096\\QuickSort_0096.vcxproj|D:\\PEMROGRAMAN DASAR\\096_FungsiSwitch\\QuickSort_0096\\QuickSort_0096\\QuickSort_0096.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B902668-56C2-4315-ADB2-A264A127986E}|QuickSort_0096\\QuickSort_0096.vcxproj|solutionrelative:QuickSort_0096\\QuickSort_0096.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuickSort_0096.cpp",
+              "DocumentMoniker": "D:\\PEMROGRAMAN DASAR\\096_FungsiSwitch\\QuickSort_0096\\QuickSort_0096\\QuickSort_0096.cpp",
+              "RelativeDocumentMoniker": "QuickSort_0096\\QuickSort_0096.cpp",
+              "ToolTip": "D:\\PEMROGRAMAN DASAR\\096_FungsiSwitch\\QuickSort_0096\\QuickSort_0096\\QuickSort_0096.cpp*",
+              "RelativeToolTip": "QuickSort_0096\\QuickSort_0096.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-29T11:04:02.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
