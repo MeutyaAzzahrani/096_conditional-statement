@@ -6,6 +6,7 @@
         string nama;
         string alamat;
         string umur;
+        int umur;
     };
 
     int main(){
